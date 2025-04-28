@@ -1,5 +1,6 @@
 black
 fastapi
 pytest
+pytest-cov
 pylint
 uvicorn[standard]
